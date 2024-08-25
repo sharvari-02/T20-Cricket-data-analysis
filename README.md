@@ -1,6 +1,6 @@
 # T20 CRICKET DATA ANALYSIS
 ---
-The Cricket Data Analytics project is made on T-20 Cricket World Cup Data. I have used **Power BI** for making the Dashboard. We can easily analyse the data of the matches played in the world cup. We can also choose our best playing 11 from the pool of players playing the world cup. 
+The Cricket Data Analytics project is made on T-20 Cricket World Cup Data. This project focusing on selecting the best 11 players for a cricket team using T20 World Cup data. It involves web scraping from ESPNcricinfo, data cleaning in Pandas, and visualization in Power BI. Criteria such as batting average, strike rate, and bowling performance are key factors in player selection, with a particular emphasis on power hitters, anchors, finishers, and specialist fast bowlers. I have used **Power BI** for making the Dashboard. We can easily analyse the data of the matches played in the world cup. We can also choose our best playing 11 from the pool of players playing the world cup. 
 
 ---
 
