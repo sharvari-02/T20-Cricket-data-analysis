@@ -4,6 +4,18 @@ The Cricket Data Analytics project is made on T-20 Cricket World Cup Data. I hav
 
 ---
 
+# Overview:
+
+- This repository showcases a cricket data analytics project focused on the T-20 World Cup 2022.
+- Python and Pandas for data cleaning and transformation.
+- The project's highlight is a Power BI report that aids in selecting the top 11 players across various categories.
+- Selected team has 95% of chances to win the game.
+
+
+
+
+---
+
 # Steps involved in the project:
 
 - Requirement Scoping: With an SME (Subject Matter Expert)
@@ -15,6 +27,7 @@ The Cricket Data Analytics project is made on T-20 Cricket World Cup Data. I hav
 - Insights Collection
 
 ---
+
 
 ![power_hitters_and_openers](https://user-images.githubusercontent.com/81465377/211144386-48070a65-7e8b-4370-af44-121b878b554b.jpg)
 
